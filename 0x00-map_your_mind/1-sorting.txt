@@ -1,0 +1,11 @@
+To develop an algorithm that
+
+reads in three numbers and writes them all in sorted order
+
+numbers INPUT "Enter three numbers"
+
+FOR each num in numbers
+    sorted_numbers in ascending
+ENDFOR
+
+OUTPUT sorted_numbers
